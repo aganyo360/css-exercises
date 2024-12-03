@@ -1,0 +1,9 @@
+/* .container{
+    color: red;
+    background-color: yellow;
+} */
+.container > p{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
